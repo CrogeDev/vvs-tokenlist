@@ -1,0 +1,324 @@
+{
+  "name": "VVS Finance Default List",
+  "timestamp": "2022-03-29T04:23:16.506Z",
+  "version": {
+    "major": 0,
+    "minor": 11,
+    "patch": 5
+  },
+  "logoURI": "https://vvs.finance/logo.png",
+  "keywords": [
+    "vvs",
+    "default"
+  ],
+  "tokens": [
+    {
+      "name": "WCRO Token",
+      "symbol": "WCRO",
+      "address": "0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x5C7F8A570d578ED84E63fdFA7b1eE72dEae1AE23.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "VVS Token",
+      "symbol": "VVS",
+      "address": "0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x2D03bECE6747ADC00E1a131BBA1469C15fD11e03.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0xe44Fd7fCb2b1581822D0c862B68222998a0c299a",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xe44Fd7fCb2b1581822D0c862B68222998a0c299a.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "USDC Token",
+      "symbol": "USDC",
+      "address": "0xc21223249CA28397B4B6541dfFaEcC539BfF0c59",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://vvs.finance/images/tokens/0xc21223249CA28397B4B6541dfFaEcC539BfF0c59.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "WBTC Token",
+      "symbol": "WBTC",
+      "address": "0x062E66477Faf219F25D27dCED647BF57C3107d52",
+      "chainId": 25,
+      "decimals": 8,
+      "logoURI": "https://vvs.finance/images/tokens/0x062E66477Faf219F25D27dCED647BF57C3107d52.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "address": "0x66e428c3f67a68878562e79A0234c1F83c208770",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://vvs.finance/images/tokens/0x66e428c3f67a68878562e79A0234c1F83c208770.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Shiba Inu",
+      "symbol": "SHIB",
+      "address": "0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xbED48612BC69fA1CaB67052b42a95FB30C1bcFee.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Beefy.finance",
+      "symbol": "BIFI",
+      "address": "0xe6801928061CDbE32AC5AD0634427E140EFd05F9",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xe6801928061CDbE32AC5AD0634427E140EFd05F9.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Dai Stablecoin",
+      "symbol": "DAI",
+      "address": "0xF2001B145b43032AAF5Ee2884e456CCd805F677D",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xF2001B145b43032AAF5Ee2884e456CCd805F677D.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "address": "0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396",
+      "chainId": 25,
+      "decimals": 8,
+      "logoURI": "https://vvs.finance/images/tokens/0x1a8E39ae59e5556B56b76fCBA98d22c9ae557396.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "ATOM",
+      "symbol": "ATOM",
+      "address": "0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://vvs.finance/images/tokens/0xB888d8Dd1733d72681b30c00ee76BDE93ae7aa93.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "TONIC",
+      "symbol": "TONIC",
+      "address": "0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xDD73dEa10ABC2Bff99c60882EC5b2B81Bb1Dc5B2.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "LINK",
+      "symbol": "LINK",
+      "address": "0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xBc6f24649CCd67eC42342AccdCECCB2eFA27c9d9.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "ENJ",
+      "symbol": "ENJ",
+      "address": "0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x0A92ea8a197919aCb9BC26660Ed0D43D01ed26b7.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Dogelon Mars",
+      "symbol": "ELON",
+      "address": "0x02DCcaf514C98451320a9365C5b46C61d3246ff3",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x02DCcaf514C98451320a9365C5b46C61d3246ff3.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "SINGLE Token",
+      "symbol": "SINGLE",
+      "address": "0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x0804702a4E749d39A35FDe73d1DF0B1f1D6b8347.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "LUNA",
+      "symbol": "LUNA",
+      "address": "0x9278C8693e7328bef49804BacbFb63253565dffD",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://vvs.finance/images/tokens/0x9278C8693e7328bef49804BacbFb63253565dffD.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "DOT",
+      "symbol": "DOT",
+      "address": "0x994047FE66406CbD646cd85B990E11D7F5dB8fC7",
+      "chainId": 25,
+      "decimals": 10,
+      "logoURI": "https://vvs.finance/images/tokens/0x994047FE66406CbD646cd85B990E11D7F5dB8fC7.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "ADA",
+      "symbol": "ADA",
+      "address": "0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0",
+      "chainId": 25,
+      "decimals": 6,
+      "logoURI": "https://vvs.finance/images/tokens/0x0e517979C2c1c1522ddB0c73905e0D39b3F990c0.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "DappRadar",
+      "symbol": "RADAR",
+      "address": "0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0xa58e3AeAeA3292c3E260378e55E9684C59E7A27a.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "DeRace Token",
+      "symbol": "DERC",
+      "address": "0x98616a1427a1734DaEbA1E1894db48051244A065",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x98616a1427a1734DaEbA1E1894db48051244A065.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Pendle",
+      "symbol": "PENDLE",
+      "address": "0x49c3bBB239f4FB44327073510f4bA72D207a81D6",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x49c3bBB239f4FB44327073510f4bA72D207a81D6.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "TrueUSD",
+      "symbol": "TUSD",
+      "address": "0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x87EFB3ec1576Dec8ED47e58B832bEdCd86eE186e.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "XLM",
+      "symbol": "XLM",
+      "address": "0x747d6C858168B8cD6e537160320b5dE58FD3367C",
+      "chainId": 25,
+      "decimals": 7,
+      "logoURI": "https://vvs.finance/images/tokens/0x747d6C858168B8cD6e537160320b5dE58FD3367C.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "EOS",
+      "symbol": "EOS",
+      "address": "0xA37caA841072a305a0799718aFA16cd504C52118",
+      "chainId": 25,
+      "decimals": 4,
+      "logoURI": "https://vvs.finance/images/tokens/0xA37caA841072a305a0799718aFA16cd504C52118.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Qredo Token",
+      "symbol": "QRDO",
+      "address": "0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc",
+      "chainId": 25,
+      "decimals": 8,
+      "logoURI": "https://vvs.finance/images/tokens/0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "ApeCoin",
+      "symbol": "APE",
+      "address": "0x9C62F89a8C9907582f21205Ce90443730361EA05",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x9C62F89a8C9907582f21205Ce90443730361EA05.svg",
+      "tags": [
+        "mainnet"
+      ]
+    },
+    {
+      "name": "Alethea AI",
+      "symbol": "ALI",
+      "address": "0x45C135C1CDCE8d25A3B729A28659561385C52671",
+      "chainId": 25,
+      "decimals": 18,
+      "logoURI": "https://vvs.finance/images/tokens/0x45C135C1CDCE8d25A3B729A28659561385C52671.svg",
+      "tags": [
+        "mainnet"
+      ]
+    }
+  ]
+}
