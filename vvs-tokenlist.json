@@ -245,15 +245,6 @@
       "decimals": 8,
       "logoURI": "https://vvs.finance/images/tokens/0x70BB395F1A824D9a3F9D510C25e699cEaf603dEc.svg",
       "tags": ["mainnet"]
-    },
-    {
-      "name": "ApeCoin",
-      "symbol": "APE",
-      "address": "v",
-      "chainId": 25,
-      "decimals": 18,
-      "logoURI": "https://vvs.finance/images/tokens/0x9C62F89a8C9907582f21205Ce90443730361EA05.svg",
-      "tags": ["mainnet"]
     }
   ]
 }
